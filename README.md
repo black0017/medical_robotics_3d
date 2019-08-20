@@ -3,6 +3,7 @@
 Implementation is in pure Matlab. You can reproduce the reported results running the corresponing scripts.
 
 ### T1) Compute in symbolic form the matrix A_8^12
+![Alt text](./figures/t1.png?raw=true "t1")
 
 
 ### T2) Given the bounds of q compute points of the 3D-working space
