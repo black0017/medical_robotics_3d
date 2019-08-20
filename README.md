@@ -1,4 +1,4 @@
-### Medical Robotics assignment
+## Medical Robotics assignment
 
 Implementation is in pure Matlab. You can reproduce the reported results running the corresponing scripts.
 
