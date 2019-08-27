@@ -59,4 +59,5 @@ both at start and end point equal to zero. Change of th8 angle is depicted below
 ![Alt text](./figures/t5.png?raw=true "t5")
 
 
-If you found this project usefull, let me know :)
+## Support 
+If you like this repo and find it useful, please consider (★) starring it, so that it can reach a broader audience.
